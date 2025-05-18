@@ -1,7 +1,7 @@
 # Price-Optimization-with-Python
 
 **Overview**
-This project explores how data-driven strategies can help refine pricing decisions by analyzing internal sales data against competitor benchmarks. By leveraging data visualization and machine learning specifically a Random Forest Regression model—we aimed to identify the price point that would optimize revenue while staying competitive in the market.
+This project explores how data-driven strategies can help refine pricing decisions by analyzing internal sales data against competitor benchmarks. By leveraging data visualization and machine learning specifically a Random Forest Regression model, we aimed to identify the price point that would optimize revenue while staying competitive in the market.
 
 The analysis combines exploratory insights with predictive modeling to understand pricing dynamics, simulate outcomes across various price ranges, and ultimately recommend the most profitable pricing strategy.
 
